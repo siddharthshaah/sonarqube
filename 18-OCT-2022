@@ -1,0 +1,50 @@
+Code Coverage
+Code Coverage is about the lines of code being tested by the testcode written aspart of the project. In order to certify the code is working propertly we need to ensure all the lines of code within our application has been executed/tested through test code, we can analyze what percentage code is being tested by the testcode using code coverage tools
+
+Code Review
+The code review process is used for verifying the quality of code written by the developer. There can be bad programming mistakes or poor implementation of the logic that can be identified and made better through code review process. There are 2 types of code reviews are there
+1. peer review 
+2. static code analysis tool
+
+1. peer review = we deliver the code we developed to the other members in the project asking them to review the code, which is called "peer review" process
+
+2. static code analysis tool = it takes more time for peer review of the code, there can be common programmatic errors like
+1. unused variables
+2. unreachable try/catch blocks
+3. infinite loops
+4. un-initialized variables
+5. unnecessary imports
+6. resoure leakages
+etc
+
+such kind of common programmatic mistakes can be identified and fixed quickly through the help of code review tools
+
+From the above we can understand a project should adopt 2 types of tools
+1. code coverage tool
+2. code review tool
+to ensure the code quality of a project
+
+How do we enforce or adopt these tools as part of development and delivery of a project?
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
